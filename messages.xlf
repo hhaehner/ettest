@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="9b475bb63675494482effde989c7f1f18c232620" datatype="html">
+        <source>Contacts</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d2a2915d79ff31439a174fc3a147004542291e29" datatype="html">
+        <source>Map</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="88243abd8988ba30cc911172ad920d036a057993" datatype="html">
+        <source>Imprint</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f5ab15e618dc4d10a0d3a33163776091e18e0be7" datatype="html">
+        <source>Contacts</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">This is the h1 headline</note>
+        <note priority="1" from="meaning">test</note>
+      </trans-unit>
+      <trans-unit id="f618539e2cca3849d9cfc927fbfc891c339b0d93" datatype="html">
+        <source>imprint works!</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/imprint/imprint.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6eb0488eb2da5de5a2fdcdfeef3da0e8152eade0" datatype="html">
+        <source>Other Contacts</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-detail/contact-detail.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
